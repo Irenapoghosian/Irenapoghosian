@@ -50,6 +50,13 @@ No storyboards: diffable data sources, MVVM with Combine, Core Data persistence,
 **[Nimbus](https://github.com/Irenapoghosian/nimbus-weather)** · Weather with a living sky<br>
 Your location and saved cities, the next 24 hours as a Swift Charts curve, and a 10-day forecast, over a sky that rains, snows and twinkles (Canvas + TimelineView, with Reduce Motion respected). Home Screen and Lock Screen widgets with their own city search, 7 Swift packages and 89 unit tests in CI.
 
+<br>
+
+<a href="https://github.com/Irenapoghosian/folio-resume"><img src="assets/folio.png" alt="Folio: my résumé as an iPhone app"></a>
+
+**[Folio](https://github.com/Irenapoghosian/folio-resume)** · My résumé as an iPhone app<br>
+Profile, experience and every app above, with screenshots and links to the code. One tap writes a one-page PDF CV, drawn by SwiftUI with `ImageRenderer` from the same JSON the app reads, so the two never disagree.
+
 ---
 
 ## More projects
