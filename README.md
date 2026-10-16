@@ -43,6 +43,13 @@ A camera built from scratch on AVFoundation, Core Image and Metal: real-time fil
 **[Echo](https://github.com/Irenapoghosian/echo-chat)** · A UIKit messenger, built in code<br>
 No storyboards: diffable data sources, MVVM with Combine, Core Data persistence, a composer that rides on the keyboard, Reply / Copy / Delete context menus with lifted bubbles, an animated typing indicator, photos with full-screen zoom, and Dark Mode. 34 unit tests in CI.
 
+<br>
+
+<a href="https://github.com/Irenapoghosian/nimbus-weather"><img src="assets/nimbus.png" alt="Nimbus: weather with a living sky"></a>
+
+**[Nimbus](https://github.com/Irenapoghosian/nimbus-weather)** · Weather with a living sky<br>
+Your location and saved cities, the next 24 hours as a Swift Charts curve, and a 10-day forecast, over a sky that rains, snows and twinkles (Canvas + TimelineView, with Reduce Motion respected). Home Screen and Lock Screen widgets with their own city search, 7 Swift packages and 89 unit tests in CI.
+
 ---
 
 ## More projects
